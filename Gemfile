@@ -11,6 +11,7 @@ end
 group :development do
 gem 'sqlite3'
 end
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'carrierwave'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
